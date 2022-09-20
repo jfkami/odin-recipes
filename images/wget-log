@@ -1,0 +1,11 @@
+--2022-09-20 17:00:17--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fpublic-assets.meredithcorp.io%2F88a62c414fbb2c750efe1ed2982a7a3e%2F1648997853homemade-lasagna%20.jpg
+Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 13.33.174.60, 13.33.174.56, 13.33.174.90, ...
+Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|13.33.174.60|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 965834 (943K) [image/jpeg]
+Saving to: ‘image?url=https:%2F%2Fpublic-assets.meredithcorp.io%2F88a62c414fbb2c750efe1ed2982a7a3e%2F1648997853homemade-lasagna .jpg’
+
+          image?url=   0%[                     ]       0  --.-KB/s                        image?url=h   4%[>                    ]  46,15K   179KB/s                       image?url=ht  11%[=>                   ] 105,54K   198KB/s                      image?url=htt  17%[==>                  ] 167,76K   221KB/s                     image?url=http  24%[====>                ] 232,80K   231KB/s                    image?url=https  31%[=====>               ] 301,12K   233KB/s                   image?url=https:  38%[=======>             ] 360,51K   232KB/s                  image?url=https:%  44%[========>            ] 423,70K   236KB/s                 image?url=https:%2  51%[=========>           ] 483,54K   234KB/s                image?url=https:%2F  59%[===========>         ] 556,61K   239KB/s               image?url=https:%2F%  65%[============>        ] 616,46K   240KB/s               mage?url=https:%2F%2  72%[==============>      ] 680,46K   241KB/s               age?url=https:%2F%2F  78%[===============>     ] 743,20K   245KB/s    eta 1s     ge?url=https:%2F%2Fp  83%[================>    ] 787,82K   243KB/s    eta 1s     e?url=https:%2F%2Fpu  89%[=================>   ] 839,69K   244KB/s    eta 1s     ?url=https:%2F%2Fpub  94%[==================>  ] 892,71K   244KB/s    eta 1s     image?url=https:%2F% 100%[====================>] 943,20K   246KB/s    in 3,8s    
+
+2022-09-20 17:00:23 (246 KB/s) - ‘image?url=https:%2F%2Fpublic-assets.meredithcorp.io%2F88a62c414fbb2c750efe1ed2982a7a3e%2F1648997853homemade-lasagna .jpg’ saved [965834/965834]
+
